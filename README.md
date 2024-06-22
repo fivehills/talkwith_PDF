@@ -20,8 +20,8 @@ This Streamlit application allows you to upload multiple PDF files and chat with
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chat_mypdfs.git
-    cd chat_mypdfs
+    git clone https://github.com/yourusername/talkwith_PDF.git
+    cd talkwith_PDF
     ```
 
 2. Install the required dependencies:
